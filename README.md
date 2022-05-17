@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Tecnologias
+
+a
+a
+
+# uma linaa
+
+a
+
 ### Ferramentas e Tecnologias
 
 
