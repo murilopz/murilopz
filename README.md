@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 <code>
-          
-   {
-      "Name": "Murilo Panhzzi",
+
+    "Name": "Murilo Panhzzi",
       "🚀 About me": "",
       "🏢 Working": ""
-   }
           
 </code>
 
