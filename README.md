@@ -30,7 +30,6 @@ Tecnologias utilizadas no desenvolvimento
 #### Cloud
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80"/>
-          
 Api Gateway, Certificate Manager, Code Delpoy, Cloud Front, Cloud Watch, EC2, RDS, Lambda, Load Balance, Route 53, S3, SES, SNS, SQS, VPC
 
 ### Databases
